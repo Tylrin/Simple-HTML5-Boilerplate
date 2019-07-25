@@ -1,0 +1,11 @@
+// Use border-box on everything
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+// Make the page use the full browser window
+html {
+	height: 100%;
+}

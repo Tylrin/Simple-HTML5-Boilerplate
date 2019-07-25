@@ -1,0 +1,22 @@
+{
+  "name": "HTML-boilerplate",
+  "version": "1.0.0",
+  "description": "This repository is a clean and very basic biolerplate code for my frontend development project.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tylrin/HTML-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tylrin/HTML-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Tylrin/HTML-boilerplate#readme"
+}
